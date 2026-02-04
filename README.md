@@ -277,9 +277,9 @@ LaunchedEffect(expiryTime) {
 
 <div align="center">
 
-| Login Screen | OTP Verification | Session Screen |
-|--------------|------------------|----------------|
-| ![Login](https://via.placeholder.com/250x500?text=Login+Screen) | ![OTP](https://via.placeholder.com/250x500?text=OTP+Screen) | ![Session](https://via.placeholder.com/250x500?text=Session+Screen) |
+| Login Screen | OTP Screen | Session Screen |
+|--------------|------------|----------------|
+| <img src="Readme%20Images/Login.png" width="250"/> | <img src="Readme%20Images/Otp.png" width="250"/> | <img src="Readme%20Images/Session.png" width="250"/> |
 
 </div>
 
